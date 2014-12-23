@@ -1,0 +1,7 @@
+TERMINAL COMMANDS:
+
+pwd=print working directory //prints your location in directory
+cd + [file name]=change directory //go into that folder
+ls = list files in your current directory
+ls -a =lists ALL files (some are hidden)
+ls -l=lists files LONGFORM (adds time + date + other)
